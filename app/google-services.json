@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299046971510",
+    "project_id": "univibe-mobapp",
+    "storage_bucket": "univibe-mobapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299046971510:android:a42835d11725fd5f541757",
+        "android_client_info": {
+          "package_name": "com.example.univibe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF4AI8kuEWN_rRcHJO2wSKXs7n0cTOZ_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
