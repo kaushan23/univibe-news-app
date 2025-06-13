@@ -22,7 +22,7 @@
                 android:layout_height="match_parent"
                 android:background="#6200EE"
                 android:theme="@style/ThemeOverlay.MaterialComponents.Dark.ActionBar"
-                app:title="Events News"
+                app:title="Event News"
                 app:titleTextColor="@android:color/white"
                 app:navigationIcon="@drawable/ic_menu" />
 
